@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite them as below."
+title: "Supplementary materials: Temporal Modeling for Entity Alignment in Temporal Knowledge Graphs"
+authors:
+  - family-names: "Yang"
+    given-names: "HaiJie"
+    affiliation: "Beijing Information Science and Technology University"
+version: "1.0"
+date-released: "2026-10-23"
+type: dataset
+license: CC-BY-4.0
